@@ -85,6 +85,8 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
 ## Fork this repository
+## Why to Fork??
+  Forking a Repository to your own account will help you to make changes on the repository without affecting the main file.
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
